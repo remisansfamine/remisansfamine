@@ -1,6 +1,6 @@
 # Welcom to my Github page! I'm Rémi 🌺
 
-Programmer for a long time, I'm currently studying Game Programming at ISART Digital Paris. I have a big fondness for Engine and Rendering parts of programming (take a look to my [CPU Rasterizer](https://github.com/remisansfamine/Rasterizer) and my own Engine [Cherry Crisis]()!). Here you will find most of my projects that I find cool to share :)
+Programmer for a long time, I'm currently studying Game Programming at ISART Digital Paris. I have a big fondness for Engine and Rendering parts of programming (take a look at my [CPU Rasterizer](https://github.com/remisansfamine/Rasterizer) and my own Engine [Cherry Crisis]()!). Here you will find most of my projects that I find cool to share :)
 
 ## Skills
 - **Languages**: C, C++, C#, GLSL, Python, bash
