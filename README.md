@@ -9,7 +9,7 @@ Programmer for a long time, I'm currently studying Game Programming at ISART Dig
 - **Languages**: C, C++, C#, GLSL, Python, bash
 - **Game engine**: Unity, Unreal Engine 4
 - **Tools**: Visual Studio Community, VSCode, RenderDoc, SWIG
-- **Rendering API**: OpenGL (Legacy and Modern), SDL
+- **Rendering**: OpenGL (Legacy and Modern), SDL
 - **Versionning**: git, Gitlab, Bitbucket, Fork
 - **Programming concepts**: Prototypage, Multithreading, Scripting, Interfacing C++ - Python/C#
 
