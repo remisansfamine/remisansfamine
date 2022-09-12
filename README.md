@@ -12,8 +12,3 @@ Programmer for a long time, I'm currently studying Game Programming at ISART Dig
 - **Rendering**: OpenGL (Legacy and Modern), SDL
 - **Versionning**: git, Gitlab, Bitbucket, Fork
 - **Programming concepts**: Prototypage, Multithreading, Scripting, Interfacing C++ - Python/C#
-
-
-## Checkout my other pages!
-* [My itch.io page](https://remisansfamine.itch.io/)
-* [My LinkedIn profile](https://www.linkedin.com/in/r%C3%A9mi-giner-b7a06723a/)
