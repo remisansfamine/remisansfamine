@@ -11,5 +11,5 @@ Here you will find most of my projects that I find cool to share :)
 - **Game engine**: Unity, Unreal Engine 4, Unreal Engine 5
 - **Tools**: Visual Studio Community, VSCode, Jetbrains Rider, RenderDoc, SWIG
 - **Rendering**: OpenGL (Legacy and Modern), SDL
-- **Versionning**: git, Gitlab, Bitbucket, Fork, Github, P4V
+- **Versionning**: git (+LFS), Gitlab, Bitbucket, Fork, Github, P4V
 - **Programming concepts**: Prototyping, Multithreading, Replication, Scripting, Interfacing C++ - Python/C#
