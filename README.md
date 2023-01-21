@@ -12,4 +12,4 @@ Here you will find most of my projects that I find cool to share :)
 - **Tools**: Visual Studio Community, VSCode, Jetbrains Rider, RenderDoc, SWIG
 - **Rendering**: OpenGL (Legacy and Modern), SDL
 - **Versioning**: git (+LFS), Gitlab, Bitbucket, Fork, GitHub, P4V
-- **Programming concepts**: Prototyping, Multithreading, Replication, Scripting, Interfacing C++ - Python/C#
+- **Programming concepts**: Prototyping, multithreading, replication, scripting, interfacing C++ - Python/C#
